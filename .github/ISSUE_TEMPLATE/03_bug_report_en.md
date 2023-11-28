@@ -1,5 +1,5 @@
 ---
-name: Bug report
+name: Bug report 🇬🇧
 about: Create a report to help us track down and eliminate bugs in Squid
 title: ""
 labels: bug
