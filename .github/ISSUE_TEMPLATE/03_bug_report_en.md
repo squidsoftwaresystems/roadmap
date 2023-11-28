@@ -33,12 +33,12 @@ If applicable, in which customer environment did the bug occur?
 
 Select the type of bug:
 
-- [ ] **Functional Bug**: The software does not behave as expected
-- [ ] **UI/UX Bug**: Issues related to the user interface or user experience
-- [ ] **Performance Bug**: The software is slow, unresponsive, or resource-intensive
-- [ ] **Security Bug**: The bug poses a security risk
-- [ ] **Compatibility Bug**: The software is not compatible with certain environments or dependencies
-- [ ] **Documentation Bug**: Issues with the documentation
+- [ ] **Functional bug**: The software does not behave as expected
+- [ ] **UI/UX bug**: Issues related to the user interface or user experience
+- [ ] **Performance bug**: The software is slow, unresponsive, or resource-intensive
+- [ ] **Security bug**: The bug poses a security risk
+- [ ] **Compatibility bug**: The software is not compatible with certain environments or dependencies
+- [ ] **Documentation bug**: Issues with the documentation
 - [ ] **Other (specify): \_\_\_\_\_**
 
 ## To Reproduce

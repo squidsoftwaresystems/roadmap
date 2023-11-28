@@ -33,9 +33,9 @@ Indien van toepassing, welke klantomgeving gebeurde de bug?
 
 Selecteer het type bug:
 
-- [ ] **Functionele Bug**: De software gedraagt zich niet zoals verwacht
-- [ ] **UI/UX Bug**: Problemen met de gebruikersinterface of gebruikerservaring
-- [ ] **Prestatie Bug**: De software is traag, reageert niet, of gebruikt te veel middelen
+- [ ] **Functionele bug**: De software gedraagt zich niet zoals verwacht
+- [ ] **UI/UX bug**: Problemen met de gebruikersinterface of gebruikerservaring
+- [ ] **Prestatie bug**: De software is traag, reageert niet, of gebruikt te veel middelen
 - [ ] **Beveiligingsbug**: De bug vormt een beveiligingsrisico
 - [ ] **Compatibiliteitsbug**: De software is niet compatibel met bepaalde omgevingen of afhankelijkheden
 - [ ] **Documentatiebug**: Problemen met de documentatie
