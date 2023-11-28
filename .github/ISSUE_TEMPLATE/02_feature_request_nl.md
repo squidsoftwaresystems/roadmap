@@ -1,5 +1,5 @@
 ---
-name: Feautre aanvraag
+name: Feature aanvraag
 about: Stel nieuwe functionaliteit of een verbetering aan Squid voor
 ---
 
