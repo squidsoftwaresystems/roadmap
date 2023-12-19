@@ -35,7 +35,7 @@ Wie gaan we heel blij maken als we dit implementeren?
 
 ## Situatie
 
-Beschrijf de situatie waarin deze fucntionaliteit nuttig zou zijn en geef aan of het een specifiek probleem oplost.
+Beschrijf de situatie waarin deze functionaliteit nuttig zou zijn en geef aan of het een specifiek probleem oplost.
 
 ## Voorgestelde oplossing
 
