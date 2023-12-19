@@ -27,7 +27,7 @@ Please select the type of feature:
 - [ ] **UI/UX improvement**: Enhancements related to user interface or user experience
 - [ ] **Performance improvement**: Optimisations for better performance
 - [ ] **Documentation improvement**: Enhancements to documentation
-- [ ] **Other (Specify): **\_\_\_\_\*\*\*\*
+- [ ] **Other (Specify): \_\_\_\_\_**
 
 ## For whom
 

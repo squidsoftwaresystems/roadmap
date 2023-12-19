@@ -27,7 +27,7 @@ Selecteer het type functionaliteit:
 - [ ] **UI/UX verbetering**: Verbeteringen met betrekking tot de gebruikersinterface of gebruikerservaring
 - [ ] **Prestatieverbetering**: Optimalisaties voor betere prestaties
 - [ ] **Documentatieverbetering**: Verbeteringen aan de documentatie
-- [ ] **Anders (Specificeren): **\_\_\_\_\*\*\*\*
+- [ ] **Anders (Specificeren): \_\_\_\_\_**
 
 ## Voor wie
 
